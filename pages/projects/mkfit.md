@@ -8,6 +8,8 @@ image: logos/mkfit-graphic.png
 blurb: Modernizing Kalman filter tracking for CMS
 maturity: Deployed
 maturity-note:
+github: https://github.com/trackreco/mkFit
+start-date: 2014-02-23
 team:
  - IHateLinus
  - pwittich
@@ -23,15 +25,15 @@ team:
  - Giuseppe Cerati
  - Matti Kortelainen
  - Allison Reinsvold Hall
+ - Patrick Gartung
  - Brian Gravelle
  - Boyana Norris
 focus-area: ia
-
 ---
 
 
 MkFit aims to develop fully vectorized and parallelized tracking algorithms based on the Kalman Filter for use in a collider experiment.
-For a more complete account, [see the main project page](http://trackreco.github.io/).
+For a more complete account, see the [main project page](http://trackreco.github.io/) and the [JINST publication](http://inspirehep.net/record/1798734).
 
 <br/>
 

@@ -9,6 +9,8 @@ logowidth: 70%
 blurb: Manipulate vectors
 maturity: Deployed
 maturity-note:
+github: https://github.com/scikit-hep/vector
+start-date: 2018-07-08
 focus-area: as
 team:
 - jpivarski
@@ -16,7 +18,7 @@ team:
 ---
 
 [Vector](https://github.com/scikit-hep/vector)
-is a Python 3.6+ library for 2D, 3D, and [Lorentz vectors](https://en.wikipedia.org/wiki/Special_relativity#Physics_in_spacetime), especially _arrays of vectors_, to solve common physics problems in a NumPy-like way.
+is a Python 3.7+ library for 2D, 3D, and [Lorentz vectors](https://en.wikipedia.org/wiki/Special_relativity#Physics_in_spacetime), especially _arrays of vectors_, to solve common physics problems in a NumPy-like way.
 
 Main features of Vector:
 
